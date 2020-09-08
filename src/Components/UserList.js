@@ -1,12 +1,13 @@
 import React from 'react'
+
 const placeholdList = [
     {
-    id:'0',
-    name: 'Friends'
+        id: '0',
+        name: 'Friends'
     },
     {
-        id:'1',
-        name:'The Office'
+        id: '1',
+        name: 'The Office'
     },
 ]
 function UserList () {
